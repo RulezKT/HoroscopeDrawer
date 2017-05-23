@@ -1,6 +1,6 @@
 # Horoscope Drawer
 
-HoroscopeDrawer.js lets you draw zodiac charts in SVG-Format.
+HoroscopeDrawer.js lets you draw astrological horoscope charts in SVG-Format.
 
 ![Horoscope Chart](preview.png "Horoscope Chart")
 
